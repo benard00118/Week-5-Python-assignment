@@ -1,0 +1,6 @@
+This is my first Python file handling assignment.
+File handling is such a fun
+I thank myself for taking this test.
+I also enjoyed learning about file handling.
+This is the end of my assignment.
+File handling in Python is versatile!.
